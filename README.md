@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/sujancse/stack.svg)](https://pkg.go.dev/github.com/sujancse/stack)
+
 ## Installation
 
 ```
